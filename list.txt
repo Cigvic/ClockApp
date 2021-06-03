@@ -1,0 +1,6 @@
+str(H1)
+str(M1)
+str(H2)
+str(M2)
+str(H3)
+str(M3)
